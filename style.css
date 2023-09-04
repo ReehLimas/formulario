@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+    color: #99858A;
+}
+
+.header {
+    display: block;
+    background-color: #A67B56;
+    position: relative;
+    height: 40%;
+   
+}
+
+h1 {
+    color: #ffffff;
+    display: block;
+    text-align: center;
+}
+
+h3{
+    margin-top: 20px;
+    text-align: center;
+    color: #F5E3CA;
+}
+#txtNome{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+#txtColor{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#txtData{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#txtCadastro{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#txtEmail{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+form{
+    text-align: center;
+    margin: 2%;
+    border: 2px solid transparent;
+    background-color: #2b201e;
+}
